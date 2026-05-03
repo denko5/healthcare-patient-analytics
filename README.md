@@ -18,7 +18,7 @@ The project demonstrates proficiency across four industry-standard tools:
 - **Power BI** - Interactive professional dashboard with DAX measures and slicers
 - **Microsoft Excel** - Pivot-table-based dashboard replicating the Power BI visuals
 
-> This project is also documented as a content series on TikTok [@YourHandle] for data analytics beginners.
+> This project is also documented as a content series on TikTok @code.ke for data analytics beginners.
 
 ---
 
