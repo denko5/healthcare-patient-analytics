@@ -1,4 +1,4 @@
-# Healthcare Patient Analytics — End-to-End Data Analytics Project
+# Healthcare Patient Analytics: End-to-End Data Analytics Project
 
 ![Status](https://img.shields.io/badge/Status-Complete-0F6E56?style=for-the-badge)
 ![Tools](https://img.shields.io/badge/Tools-MySQL%20%7C%20Python%20%7C%20Power%20BI%20%7C%20Excel-185FA5?style=for-the-badge)
